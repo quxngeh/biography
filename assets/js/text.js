@@ -20,8 +20,8 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ['curtana user ', "arrow bast rum ", "i love china ", "i want to kill myself ", "what's yes in spanish? si? WANNA SI DEEZ NUTS BITCH ", "#GaysShouldRotInHell ", "t.me/EmmaHangout "],
-      typeSpeed: 100,
+      strings: ['curtana user', "arrow bast rum", "i love china", "i want to kill myself", "what's yes in spanish? si? WANNA SI DEEZ NUTS BITCH", "#GaysShouldRotInHell", "t.me/EmmaHangout"],
+      typeSpeed: 90,
       loop: true,
       cursorChar: "|",
   });
