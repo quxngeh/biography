@@ -6,7 +6,7 @@ body {
     background: var(--back-gif) center;
     background-size: cover;
     display: flex;
-    font-family: 'Gotham Pro';
+    font-family: 'Inter';
 }
 .center {
     justify-content: center;
