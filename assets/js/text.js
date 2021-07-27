@@ -20,7 +20,7 @@ $(function() {
 });
 $(function() {
   $(".typed").typed({
-      strings: ['joyeuse user ', "evox shit ", "ximi for gays ", "plz kernal for pabj ", "0 y.o ", "rf0x1d gay ", "fet "],
+      strings: ['curtana user ', "arrow bast rum ", "i love china ", "i want to kill myself ", "what's yes in spanish? si? WANNA SI DEEZ NUTS BITCH ", "#GaysShouldRotInHell ", "t.me/EmmaHangout "],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
