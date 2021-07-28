@@ -7,7 +7,7 @@ body {
     background-size: cover;
     display: flex;
     font-family: 'Inter';
-    font: 'Inter';
+    font: 'Inter Regular';
 }
 
 .typed {
@@ -229,7 +229,7 @@ input[type=button]::-webkit-focus-inner {
     -moz-transition: 0.2s;
     transition: 0.2s;
     font-family: 'Inter';
-    font: 'Inter';
+    font: 'Inter Bold';
 }
 
 a.nolink:active,
